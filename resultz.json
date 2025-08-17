@@ -1,0 +1,168 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 0,
+  "numFailedTests": 9,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1755458744345,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Favorileri Gizle butonu tıklanınca favori panelini gizliyor.",
+          "status": "failed",
+          "title": "Favorileri Gizle butonu tıklanınca favori panelini gizliyor.",
+          "duration": 24,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Favorileri Gizle butonu tıklandıkça, metni Favorileri göster ve Favorileri gizle arasında değişiyor.",
+          "status": "failed",
+          "title": "Favorileri Gizle butonu tıklandıkça, metni Favorileri göster ve Favorileri gizle arasında değişiyor.",
+          "duration": 3,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Tüm filmler ekranda gösteriliyor",
+          "status": "failed",
+          "title": "Tüm filmler ekranda gösteriliyor",
+          "duration": 4,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Detay butonu film detaylarını gösteriyor.",
+          "status": "failed",
+          "title": "Detay butonu film detaylarını gösteriyor.",
+          "duration": 4,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine ekliyor",
+          "status": "failed",
+          "title": "Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine ekliyor",
+          "duration": 3,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine 2. kez eklemiyor",
+          "status": "failed",
+          "title": "Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine 2. kez eklemiyor",
+          "duration": 1,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " sil butonu filmi siliyor ve tüm filmler sayfası açılıyor.",
+          "status": "failed",
+          "title": "sil butonu filmi siliyor ve tüm filmler sayfası açılıyor.",
+          "duration": 2,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni film ekleniyor ve tüm filmler sayfası açılıyor.",
+          "status": "failed",
+          "title": "Yeni film ekleniyor ve tüm filmler sayfası açılıyor.",
+          "duration": 2,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " AddMovieForm componentinde preventDefault kullanılmış",
+          "status": "failed",
+          "title": "AddMovieForm componentinde preventDefault kullanılmış",
+          "duration": 2,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'displayFavorites')"
+          ],
+          "location": {
+            "line": 12,
+            "column": 65
+          }
+        }
+      ],
+      "startTime": 1755458832023,
+      "endTime": 1755458832068,
+      "status": "failed",
+      "message": "",
+      "name": "C:/workintech/82/src/__tests__/index.test.jsx"
+    }
+  ]
+}
